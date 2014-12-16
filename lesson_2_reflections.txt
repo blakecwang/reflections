@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git folder is created. This is probably going to be the folder in which all the
+metadata about previous versions is stored.
